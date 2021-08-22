@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -46,5 +46,4 @@
 [website]: https://sinno.soict.ai
 [youtube]: https://www.youtube.com/channel/UCtv00a4XyEEfc6fypYQ0Fyw
 [facebook]: https://www.facebook.com/leu.yiu/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
+[gmail]: longdieu12x@gmail.com
