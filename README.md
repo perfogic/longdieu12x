@@ -35,12 +35,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-</details>
-
 [website]: http://sinno.soict.ai
 [youtube]: https://www.youtube.com/channel/UCtv00a4XyEEfc6fypYQ0Fyw
 [facebook]: https://www.facebook.com/leu.yiu/
