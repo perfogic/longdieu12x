@@ -1,6 +1,6 @@
 ### Hi there, I'm Dang 👋
 
-## I'm a junior in HUST and I'm a self-taught developer!!
+## I'm a junior in HUST and also a self-taught developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m managing server in [SINNO][website]
