@@ -6,7 +6,7 @@
 - 👯 I’m managing server in [SINNO][website]
 - 🥅 2021 Goals: Learning Go to use with Docker and learning Three.js to work with React
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
-- 🕊️ I'm working as a frontend developer intern in [Pippip Community][pippip]
+- 🕊️ I'm working as a frontend developer in [Pippip Community][pippip]
 
 ### Connect with me:
 
