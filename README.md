@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m managing server in [SINNO][website]
-- 🥅 2021 Goals: Learning Go to use with Docker and diving deeply in some devops tool such as Jenkins, Docker Swarm, also improving my Nodejs skills
+- 🥅 2021 Goals: --~~~--
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
 - 🕊️ I'm working as a frontend developer in [Pippip Community][pippip]
 
