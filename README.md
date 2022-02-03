@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m managing server in [SINNO][website]
-- 🥅 2021 Goals: --~~~--
+- 🥅 Today mood: Ahhhh! I'm swamped with knowledge for final examination :< Not much time left
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
 - 🕊️ I'm working as a frontend developer in [Pippip Community][pippip]
 
