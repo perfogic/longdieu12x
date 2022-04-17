@@ -6,7 +6,7 @@
 - 👯 I’m managing server in [SINNO][website]
 - 🥅 Today mood: Ahhhh! I'm swamped with knowledge for final examination :< Not much time left
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
-- 🕊️ I'm working as a frontend developer in [Pippip Community][pippip]. Next step is preparation for being blockchain developer
+- 🕊️ I'm working as a frontend developer in [Pippip Community][pippip], and workings in a blockchain oursource company ([C2i Technology][])
 
 ### Connect with me:
 
@@ -46,3 +46,4 @@
 [gmail]: longdieu12x@gmail.com
 [webdevplaylist]: https://github.com/longdieu12x
 [pippip]: https://pippip.vn
+[c2i]: https://c2i.asia/contact/
