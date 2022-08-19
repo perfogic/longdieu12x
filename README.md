@@ -3,7 +3,6 @@
 ## I'm a junior in HUST and also a self-taught developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m managing server in [SINNO][website]
 - 🥅 Today mood: Ahhhh! I'm swamped with knowledge for final examination :< Not much time left
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
 - 🕊️ I'm working as a frontend blockchain developer
