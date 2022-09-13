@@ -1,6 +1,6 @@
 ### Hi there, I'm Dang 👋
 
-## I'm a junior in HUST and also a self-taught developer!!
+## I'm a senior in HUST and also a self-taught developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Today mood: Ahhhh! I'm swamped with knowledge for final examination :< Not much time left
