@@ -3,7 +3,7 @@
 ## I'm a senior in HUST and also a self-taught developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Today mood: Ahhhh! I'm swamped with knowledge for final examination :< Not much time left
+- 🥅 Today mood: Chilling with smart contract
 - ⚡ Fun fact: I'd love to have a cup of coffee at a lovely day with my lovely friends 🤣
 
 ### Connect with me:
